@@ -19,21 +19,6 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
           "name": "Python",
           "class": "devicon-python-plain",
           "level": "80"
@@ -44,6 +29,26 @@
           "level": "75"
         },
         {
+          "name": "HTML5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "75"
+        },
+        {
           "name": "Node.js",
           "class": "devicon-nodejs-plain",
           "level": "75"
@@ -51,11 +56,6 @@
         {
           "name": "Flask",
           "class": "devicon-flask-original",
-          "level": "75"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-original",
           "level": "75"
         },
         {
