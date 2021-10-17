@@ -80,22 +80,18 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Geek Squad",
+        "title": "IT Computer Specialist",
+        "years": "02.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Part-Time"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+        "Work with MacOs, Linux, and Windows 10 & 11",
+        "Support both hardware and software issues for tech consumers",
+        "Run PowerShell scripts to debug and diagnose problematic computers",
+        "Provide expert IT knowledge to consumers",
+        "Constantly staying up-to-date with the newest tech and their software"
         ]
       },
       {
