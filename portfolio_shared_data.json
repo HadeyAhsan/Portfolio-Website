@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Hadi Ahsan",
-      "titles": [ "Software Developer", "Part-Time IT Computer Specialist", "Full-Time IT University Student" ],
+      "titles": [ "Software Developer", "IT Computer Specialist", "IT University Student" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "butterfly.jpg"
+      "image": "hadey.jpg"
     },
     "skills": {
       "icons": [
